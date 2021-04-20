@@ -1,13 +1,13 @@
 ## R code for statistical analyses 
 ## of multi-year realistic BEF experiment
 ## Amelia Wolf
-## 2021-04-12
+## 2021-04-20
 
 # load required R packages, nlme for ANOVAs and reghelper for slope extraction
 library(nlme)
 library(reghelper)
 
-## data available in this same Github repository 
+## data available in this Github repository (ameliawolfUT/Wolf-et-al-Coyote_Ridge)
 
 # read in biomass data from all years
 biomass <- read.csv("biomassforR.csv")

@@ -7,7 +7,7 @@
 library(nlme)
 library(reghelper)
 
-## data available at ... 
+## data available in this same Github repository 
 
 # read in biomass data from all years
 biomass <- read.csv("biomassforR.csv")
